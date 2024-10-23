@@ -1,2 +1,3 @@
-# pcap-recorder
-A pcap record tool
+# PcapReader
+
+a simple pcap recorder inspired by [LidarView](https://lidarview.kitware.com/) project
